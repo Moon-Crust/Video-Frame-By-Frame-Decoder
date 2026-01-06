@@ -12,6 +12,6 @@ with an institutive and simple GUI , this is a powerful tool .
 7 . Select the folder you want to store the images (Recommend to choose mp4 in 1 minute)
 
 
-# Import message
+# Importent message
 
 * found any bug ? report them in the repo.
