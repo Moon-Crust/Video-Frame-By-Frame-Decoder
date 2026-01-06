@@ -7,7 +7,7 @@ with an institutive and simple GUI , this is a powerful tool .
 
 2 . Enter the Folder  "Video-Frame-By-Frame-Decoder".
 
-3 . Download it dependency by "python -m pip install -r requirements.txt".
+3 . Download it dependency by "python -m pip install -r requirements.txt" or "pip install -r requirements.txt".
 
 4 . Now run "decode.py".
 
