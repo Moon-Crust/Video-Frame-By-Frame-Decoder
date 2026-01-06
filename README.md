@@ -29,6 +29,12 @@ with an institutive and simple GUI , this is a powerful tool .
 
 2 . Select the folder you want to save the video
 
+# Additional Notes
+
+ * It use a lossless codec for both video to image and image to video.
+ * make sure you have enough free space.
+ * it stiches back audio if thre is any.
+
 # Importent message
 
 * found any bug ? report them in the repo.
