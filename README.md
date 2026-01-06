@@ -15,7 +15,8 @@ with an institutive and simple GUI , this is a powerful tool .
 
 6 . Choose mp4 file you wanna decode/decompress to image
 
-7 . Select the folder you want to store the images (Recommend to choose mp4 in 1 minute)
+7 . Select the folder you want to store the images (Recommend to choose mp4 under few seconds or a specefic scene that need the enhancement as a 1 minute or more can 
+    generate thousends of frame)
 
 
 # Importent message
