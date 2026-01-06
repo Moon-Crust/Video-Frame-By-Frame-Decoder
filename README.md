@@ -3,6 +3,10 @@ Want to decompress video to image and then compress the image to video again ? t
 with an institutive and simple GUI , this is a powerful tool .
 
 # HOW TO USE?
+  # Decoding
+  
+0 . Swich to video decode
+
 1 . Clone the project https://github.com/Moon-Crust/Video-Frame-By-Frame-Decoder
 
 2 . Enter the Folder  "Video-Frame-By-Frame-Decoder".
@@ -18,6 +22,12 @@ with an institutive and simple GUI , this is a powerful tool .
 7 . Select the folder you want to store the images (Recommend to choose mp4 under few seconds or a specefic scene that need the enhancement as a 1 minute or more can 
     generate thousends of frame)
 
+  # Encoding
+0 . Swich to Video Encode
+
+1 . Select the folder you Decoded the frames
+
+2 . Select the folder you want to save the video
 
 # Importent message
 
