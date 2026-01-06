@@ -3,7 +3,7 @@ Want to decompress video to image and then compress the image to video again ? t
 with an institutive and simple GUI , this is a powerful tool .
 
 # HOW TO USE?
-1 . Clone the project https://github.com/Moon-Crust/Video-Frame-By-Frame-Decoder
+1 . Clone the project https://github.com/Moon-Crust/Video-Frame-By-Frame-Decoder\n
 2 . Enter the Folder  "Video-Frame-By-Frame-Decoder".
 3 . Download it dependency by "pip install -r requirements.txt".
 4 . Now run "decode.py".
